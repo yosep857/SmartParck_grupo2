@@ -1,0 +1,51 @@
+nav {
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.navbar {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  display: flex;
+  background: #C7C7C7;
+  border-radius: 80px;
+  margin-left: 15px;
+}
+
+.navbar_input {
+  background: none;
+  border: none;
+  outline: none;
+  color: white;
+}
+
+.navbar_button{
+  background-color: transparent !important;
+  border: none;
+  margin-left: 15px;
+}
+
+
+.links {
+  text-decoration: none;
+  color: white;
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 35px;
+  text-align: center;
+}

@@ -1,0 +1,57 @@
+.div_information {
+  width: 380px;
+  height: 162px;
+  background: #a6aeae;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.165em;
+  color: #ffffff;
+  padding: 0 32px;
+}
+
+.description {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: justify;
+  color: #ffffff;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 46px;
+  gap: 245px;
+}
+.container_description {
+  width: 390px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  
+}
+
+.container_contacto--perfil{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.container_contacto--images{
+  display: flex;
+  margin-top: 200px;
+  gap:10px;
+}
+
+.container_description_contact--text{
+  display: flex;
+  flex-direction: column;
+  gap:50px;
+}

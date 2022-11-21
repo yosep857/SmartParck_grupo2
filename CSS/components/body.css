@@ -1,0 +1,8 @@
+body {
+  height: 20px;
+  /* background-image: url("/images/backgraud_inicio.svg"); */
+  background-color: #031319;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
